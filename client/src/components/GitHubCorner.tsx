@@ -7,7 +7,7 @@ function GitHubCorner() {
 
     return (
         <a
-            href="https://github.com/"
+            href="https://github.com/MIKHAEI/CollabNEX.git"
             className="github-corner"
             aria-label="View source on GitHub"
             target="_blank"
